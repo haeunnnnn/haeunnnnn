@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Haeun's github stats](https://github-readme-stats.vercel.app/api?username=haeunnnnn&show_icons=true&title_color=9df5dc&icon_color=e3f7da&text_color=ffffff&bg_color=000000)
+
+[![SolvedAC tier](http://mazassumnidz.wtf/api/generate_badge?boj=jse03310)](https://solved.ac/jse03310)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunnnnn&layout=compact&hide=csharp)
