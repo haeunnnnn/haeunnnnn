@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Haeun's github stats](https://github-readme-stats.vercel.app/api?username=haeunnnnn&show_icons=true&theme=radical)
 
-[![SolvedAC tier](http://mazassumnidz.wtf/api/generate_badge?boj=jse03310)](https://solved.ac/jse03310)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jse03310)](https://solved.ac/jse03310)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeunnnnn&layout=compact&hide=csharp)
